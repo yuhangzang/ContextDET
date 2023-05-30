@@ -16,8 +16,8 @@ Contextual Object Detection with Multimodal Large Language Models
 </div>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/xxxx.xxxxx" target='_blank'>
-    <img src="http://img.shields.io/badge/cs.CV-arXiv%3Axxxx.xxxxx-B31B1B.svg">
+  <a href="https://arxiv.org/abs/2305.18279" target='_blank'>
+    <img src="http://img.shields.io/badge/cs.CV-arXiv%3A2305.18279-B31B1B.svg">
   </a>
   <a href="https://www.mmlab-ntu.com/project/contextdet/index.html" target='_blank'>
     <img src="https://img.shields.io/badge/Project Page-%F0%9F%93%9a-lightblue">
@@ -91,7 +91,7 @@ We would be grateful if you consider citing our work if you find it useful:
 @article{zang2023contextual,
   author = {Zang, Yuhang and Li, Wei and Han, Jun, and Zhou, Kaiyang and Loy, Chen Change},
   title = {Contextual Object Detection with Multimodal Large Language Models},
-  journal = {arXiv preprint arXiv:xxxx.xxxxx},
+  journal = {arXiv preprint arXiv:2305.18279},
   year = {2023}
 }
 ```
