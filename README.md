@@ -30,7 +30,7 @@ Contextual Object Detection with Multimodal Large Language Models
 
 Release Plan
 - [x] HuggingFace demo and model checkpoint, see <a href="https://huggingface.co/spaces/yuhangzang/ContextDet-Demo">here</a>
-- [ ] The CODE dataset for evaluation (before 20 Oct 2024)
+- [x] The CODE dataset for evaluation, see [here](evaluation/README.md).
 - [ ] ContextDET training scripts (before 27 Oct 2024)
 
 ## 🌟 Contextual Object Detection
