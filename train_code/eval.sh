@@ -1,0 +1,17 @@
+GPUS_PER_NODE=$1 ./tools/run_dist_launch.sh $1 ./configs/improved_baseline.sh \
+    --batch_size 4 \
+    --coco_path ./data \
+    --dataset_file refcocog \
+    --image_set val \
+    --eval_type referring \
+    --epochs 1 \
+    --lr_drop 5 \
+    --name ov_blip2 \
+    --assign_first_stage \
+    --assign_second_stage \
+    --llm_name caption_coco_opt2.7b \
+    --cls_loss_coef 2.0 \
+    --set_cost_class 2.0 \
+    --resume exps/public/refcocog/checkpoint.pth \
+    --output_dir exps/public/refcocog \
+    --eval
