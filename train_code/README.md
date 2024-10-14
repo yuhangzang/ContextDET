@@ -1,4 +1,4 @@
-# ChatDet
+# ContextDET
 
 This repo contains the official implement of "Contextual Object Detection with Multimodal Large Language Models".
 
@@ -11,8 +11,8 @@ Some of the code is based on the pure python implementation of [Deformable DETR]
 # Setting Up Environment
 
 ``` bash
-conda create -n chatdet
-conda activate chatdet
+conda create -n contextdet
+conda activate contextdet
 conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 -c pytorch
 pip install transformers
 ```
