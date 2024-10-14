@@ -28,10 +28,10 @@ Contextual Object Detection with Multimodal Large Language Models
 </p>
 
 
-Release Plan
+## 🆕 Updates in Oct 2024
 - [x] HuggingFace demo and model checkpoint, see <a href="https://huggingface.co/spaces/yuhangzang/ContextDet-Demo">here</a>
-- [x] The CODE dataset for evaluation, see [here](evaluation/README.md)
-- [ ] ContextDET training scripts, see [here](train_code/README.md)
+- [x] The CODE dataset for evaluation, see [here](evaluation)
+- [ ] ContextDET training scripts, see [here](train_code) (waiting to be cleaned up)
 
 ## 🌟 Contextual Object Detection
 Recent Multimodal Large Language Models (MLLMs) are remarkable in vision-language tasks, such as image captioning and question answering, but lack the essential perception ability, <i>i.e</i>., object detection. In this work, we address this limitation by introducing a novel research problem of <strong>contextual object detection</strong>--understanding visible objects within different human-AI interactive contexts. Three representative scenarios are investigated, including the language cloze test, visual captioning, and question answering.
